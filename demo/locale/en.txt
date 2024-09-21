@@ -3,12 +3,6 @@
 ## Media
 
 ### Title
-model_05FCF742_14CA_A453_4195_F81023AAEADC.label = 3d_mesh_of_a_cloud
-model_0759FEE0_14C9_A44F_419B_E10C0BD71275.label = bathroom_interior
-model_0E56A8B0_14F9_ACCF_419C_18CD7D5DA0C8.label = mirrors_edge_apartment_-_interior_scene
-model_00BE5889_14D9_ECD1_41A4_7BB6739E2486.label = neolithic_house_skara_brae_orkney
-model_0943BBB4_14D9_AC37_41AD_F03592F6ACA6.label = st_dunstan_in_the_west_interior
-model_07759C8A_14D6_E4D3_41AB_220CB89FECCC.label = the_great_drawing_room
 model_0C8E284F_14CF_EC51_41B0_20D8196A0A7B.label = vr_apartment_loft_interior__baked
 
 ## Tour
