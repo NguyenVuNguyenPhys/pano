@@ -3,7 +3,7 @@
 ## Media
 
 ### Title
-model_0C8E284F_14CF_EC51_41B0_20D8196A0A7B.label = vr_apartment_loft_interior__baked
+panorama_37492C71_1556_6431_41A1_8D340216AD22.label = bg_0CBDBC0B_14CF_EBD1_41A5_31E9C2A4A9B2
 
 ## Tour
 
