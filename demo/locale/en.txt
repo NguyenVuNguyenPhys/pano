@@ -1,9 +1,21 @@
 #: locale=en
 
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_07BE4D25_19EB_70A7_4193_52A29EE201BD.text = Option 1
+HotspotPanoramaOverlayTextImage_069319FD_19E5_73A7_4190_169A40DB7219.text = Option 2
+HotspotPanoramaOverlayTextImage_0410C27B_19E5_D0A3_41B2_D0D3FBA3536D.text = Option 3
+
 ## Media
 
+### Image
+imlevel_06D50C93_19E6_B063_41B6_D2D41A3FAC3E.url = media/panorama_0D76D37D_199E_B0A7_41B9_826653F064D8_HS_dz4htsbl_en.png
+imlevel_06F7DBDA_19E6_B7ED_41B6_616E1D46B995.url = media/panorama_0D76D37D_199E_B0A7_41B9_826653F064D8_HS_gru6fdqi_en.png
+imlevel_06D8AC30_19E6_B0BD_419D_40752252AD36.url = media/panorama_0D76D37D_199E_B0A7_41B9_826653F064D8_HS_vkx87euw_en.png
+
 ### Title
-model_0BB0635D_1804_4873_41B4_C36607F2155F.label = vr_apartment_loft_interior__baked
+panorama_0D76D37D_199E_B0A7_41B9_826653F064D8.label = 360Screenshot_Async
 
 ## Tour
 
